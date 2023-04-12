@@ -68,7 +68,8 @@ RTL realization
 Output:
 RTL
 
-Result:png
+Result:png(<img width="588" alt="Screenshot 2023-04-12 191905" src="https://user-images.githubusercontent.com/120206067/231489695-831f4e68-c76f-42a8-a977-4f35f1d13af8.png">
+)
 
 (<img width="583" alt="Screenshot 2023-04-12 191838" src="https://user-images.githubusercontent.com/120206067/231488827-c8fc47a3-82b5-46d4-8cbd-839e478eb208.png">
 
